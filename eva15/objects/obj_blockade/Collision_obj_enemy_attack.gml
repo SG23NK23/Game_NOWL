@@ -1,0 +1,1 @@
+b_health -= other.damage;

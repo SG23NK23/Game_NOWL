@@ -1,0 +1,1 @@
+global.dialTip1 = "Красный..."

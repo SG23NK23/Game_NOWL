@@ -1,0 +1,1 @@
+global.dd2 = 1

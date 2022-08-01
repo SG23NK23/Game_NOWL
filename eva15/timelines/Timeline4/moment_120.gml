@@ -1,0 +1,1 @@
+global.dialTip3 = "за барикадой"

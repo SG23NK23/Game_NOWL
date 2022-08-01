@@ -1,0 +1,1 @@
+if d_health <= 0 then instance_destroy()

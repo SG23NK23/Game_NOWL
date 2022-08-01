@@ -1,0 +1,1 @@
+global.dialTip2 = "Желтый ключ"
